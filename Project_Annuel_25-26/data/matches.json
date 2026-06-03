@@ -1,0 +1,123 @@
+[
+    {
+        "match_id": "galata_liverpool_20260310",
+        "name": "Galatasaray vs Liverpool",
+        "date": "2026-03-10",
+        "competition": "Champions League Round of 16",
+        "teams": {
+            "home": "Galatasaray",
+            "away": "Liverpool"
+        },
+        "teams_players": {
+            "home": {
+                "name": "Galatasaray",
+                "trainer": "Okan Buruk",
+                "key_players": [
+                    "Mauro Icardi",
+                    "Victor Osimhen"
+                ],
+                "all_players": [
+                    "Fernando Muslera",
+                    "Günay Güvenç",
+                    "Jankat Yılmaz",
+                    "Davinson Sánchez",
+                    "Abdülkerim Bardakcı",
+                    "Kaan Ayhan",
+                    "Elias Jelert",
+                    "Derrick Köhn",
+                    "Metehan Baltacı",
+                    "Ali Turap Bülbül",
+                    "Lucas Torreira",
+                    "Berkan Kutlu",
+                    "Gabriel Sara",
+                    "Kerem Demirbay",
+                    "Sérgio Oliveira",
+                    "Roland Sallai",
+                    "Efe Akman",
+                    "Mauro Icardi",
+                    "Victor Osimhen",
+                    "Dries Mertens",
+                    "Yunus Akgün",
+                    "Barış Alper Yılmaz",
+                    "Michy Batshuayi",
+                    "Halil Dervişoğlu"
+                ]
+            },
+            "away": {
+                "name": "Liverpool",
+                "trainer": "Arne Slot",
+                "key_players": [
+                    "Mohamed Salah",
+                    "Virgil van Dijk",
+                    "Luis Díaz"
+                ],
+                "all_players": [
+                    "Alisson Becker",
+                    "Caoimhín Kelleher",
+                    "Vitezslav Jaros",
+                    "Virgil van Dijk",
+                    "Trent Alexander-Arnold",
+                    "Andrew Robertson",
+                    "Ibrahima Konaté",
+                    "Joe Gomez",
+                    "Konstantinos Tsimikas",
+                    "Jarell Quansah",
+                    "Conor Bradley",
+                    "Alexis Mac Allister",
+                    "Dominik Szoboszlai",
+                    "Ryan Gravenberch",
+                    "Curtis Jones",
+                    "Harvey Elliott",
+                    "Wataru Endo",
+                    "Stefan Bajcetic",
+                    "Mohamed Salah",
+                    "Luis Díaz",
+                    "Darwin Núñez",
+                    "Cody Gakpo",
+                    "Diogo Jota",
+                    "Federico Chiesa",
+                    "Ben Doak"
+                ]
+            }
+        },
+        "search_keywords": [
+            "Galatasaray vs Liverpool match report",
+            "Galatasaray Liverpool Champions League",
+            "Salah goal Galatasaray",
+            "Icardi vs Liverpool",
+            "Galatasaray 0-2 Liverpool"
+        ],
+        "urls": [
+            "https://www.bbc.com/sport/football",
+            "https://www.bbc.com/sport/football/champions-league",
+            "https://www.theguardian.com/football/liverpool",
+            "https://www.theguardian.com/football/galatasaray",
+            "https://www.liverpoolfc.com/news",
+            "https://www.galatasaray.org/en",
+            "https://www.uefa.com/uefachampionsleague/",
+            "https://www.skysports.com/champions-league"
+        ],
+        "subreddits": [
+            "galatasaray",
+            "LiverpoolFC",
+            "soccer",
+            "championsleague"
+        ],
+        "reddit_time_windows": {
+            "match_start_utc": "2026-03-10T20:00:00Z",
+            "periods": [
+                "00:00",
+                "15:00",
+                "30:00",
+                "45:00",
+                "60:00",
+                "75:00",
+                "90:00"
+            ],
+            "before_minutes": 20,
+            "after_minutes": 20,
+            "min_comments_total": 50
+        },
+        "active": true
+    }
+]

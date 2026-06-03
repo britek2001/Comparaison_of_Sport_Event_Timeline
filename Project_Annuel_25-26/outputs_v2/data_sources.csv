@@ -1,0 +1,5 @@
+fichier,origine,contenu,utilisation
+matches_multi.json,message (1).txt,"Configuration des 5 matchs : équipes, dates, joueurs, mots-clés, événements réels.",Base du projet et timeline officielle.
+player_ids.json,message.txt,Dictionnaire joueur -> identifiant.,Information complémentaire pour une analyse de joueurs.
+news_output.zip,résultat du scraper news,Articles collectés avec Google News RSS et Bing News.,Analyse des médias et volume des articles.
+scraper_output.zip,résultat du scraper social media,Résultats YouTube et Reddit par match.,Analyse des plateformes sociales.

@@ -1,0 +1,7 @@
+partie,phrase
+Données,"Le nouveau corpus contient 5 matchs, 400 articles, 99 posts sociaux et 111 commentaires récupérés."
+Médias,Le match avec le plus d'articles est Atlético Madrid vs Inter Milan avec 100 articles.
+Médias,Il manque des articles de presse pour : Barcelona vs Bayer Leverkusen.
+Plateformes,"YouTube est la plateforme sociale principale dans ces fichiers, avec 99 posts. Reddit contient 0 posts dans cette collecte."
+Événements,Le fichier de configuration donne une timeline officielle des événements pour chaque match.
+Limite,"La collecte Reddit est faible dans ce nouveau dossier, donc la comparaison Reddit/YouTube doit être présentée avec prudence."
