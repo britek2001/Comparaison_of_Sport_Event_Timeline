@@ -1,0 +1,6 @@
+match_id,match_name,date,events_count,news_articles,social_posts,comments_fetched
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,2026-03-05 00:00:00+00:00,5,100,19,0
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,2026-03-11 00:00:00+00:00,5,100,18,106
+arsenal_psg_20260312,Arsenal vs PSG,2026-03-12 00:00:00+00:00,5,100,19,0
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,2026-03-17 00:00:00+00:00,6,0,25,0
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,2026-03-18 00:00:00+00:00,5,100,18,5

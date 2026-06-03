@@ -1,0 +1,27 @@
+match_id,match_name,minute,event_type,team,player,description
+arsenal_psg_20260312,Arsenal vs PSG,7,yellow,PSG,Achraf Hakimi,Hakimi booked for foul on Saka
+arsenal_psg_20260312,Arsenal vs PSG,22,goal,Arsenal,Bukayo Saka,Saka curls in from the right flank
+arsenal_psg_20260312,Arsenal vs PSG,44,goal,PSG,Ousmane Dembélé,Dembélé equalises before half-time
+arsenal_psg_20260312,Arsenal vs PSG,63,penalty,Arsenal,Martin Ødegaard,Ødegaard penalty awarded after VAR review — saved by Donnarumma
+arsenal_psg_20260312,Arsenal vs PSG,81,red,Arsenal,Declan Rice,Rice second yellow for time-wasting
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,18,goal,Inter Milan,Marcus Thuram,Thuram heads Inter ahead from a corner
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,34,yellow,Atlético Madrid,Rodrigo De Paul,De Paul booked for late challenge on Barella
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,51,goal,Atlético Madrid,Antoine Griezmann,Griezmann equalises with a low finish
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,67,var,Inter Milan,Lautaro Martínez,Lautaro goal ruled out — handball in build-up
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,85,goal,Atlético Madrid,Julián Álvarez,Álvarez wins it with a header at the back post
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,9,goal,Barcelona,Lamine Yamal,Yamal cuts inside and bends in the opener
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,27,goal,Bayer Leverkusen,Florian Wirtz,Wirtz equalises with a stunning half-volley
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,41,yellow,Bayer Leverkusen,Granit Xhaka,Xhaka booked for foul on Pedri
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,58,goal,Barcelona,Robert Lewandowski,Lewandowski heads Barcelona back in front
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,69,goal,Bayer Leverkusen,Victor Boniface,Boniface levels again — end-to-end thriller
+barcelona_bayer_leverkusen_20260317,Barcelona vs Bayer Leverkusen,90,goal,Barcelona,Pedri,Pedri drives home the winner deep in stoppage time
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,11,goal,Liverpool,Mohamed Salah,Salah opens the scoring at Anfield — aggregate level
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,29,goal,Liverpool,Florian Wirtz,Wirtz doubles the lead with a precise finish
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,45,yellow,Galatasaray,Kaan Ayhan,Ayhan booked for persistent fouling
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,62,goal,Liverpool,Darwin Núñez,Núñez makes it 3-0 — Liverpool lead 3-1 on aggregate
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,78,goal,Liverpool,Cody Gakpo,Gakpo rounds off the rout — Liverpool through 4-1 on aggregate
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,14,goal,Real Madrid,Vinícius Jr.,Vinícius Jr. opens the scoring
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,38,goal,Manchester City,Erling Haaland,Haaland equalises from a De Bruyne assist
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,55,var,Real Madrid,Kylian Mbappé,Mbappé goal disallowed for offside (VAR)
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,72,red,Manchester City,Rodri,Rodri red card — second yellow
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,89,goal,Real Madrid,Jude Bellingham,Bellingham wins it in injury time

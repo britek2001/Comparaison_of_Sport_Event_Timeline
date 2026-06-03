@@ -1,0 +1,9 @@
+match_id,match_name,source,articles
+arsenal_psg_20260312,Arsenal vs PSG,bing_news,4
+arsenal_psg_20260312,Arsenal vs PSG,google_news_rss,96
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,bing_news,33
+atletico_madrid_inter_20260305,Atlético Madrid vs Inter Milan,google_news_rss,67
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,bing_news,21
+liverpool_galatasaray_20260318,Liverpool vs Galatasaray,google_news_rss,79
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,bing_news,24
+real_madrid_man_city_20260311,Real Madrid vs Manchester City,google_news_rss,76

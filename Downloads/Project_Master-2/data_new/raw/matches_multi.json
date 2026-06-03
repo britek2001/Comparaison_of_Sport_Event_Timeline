@@ -1,0 +1,800 @@
+[
+    {
+        "match_id": "real_madrid_man_city_20260311",
+        "name": "Real Madrid vs Manchester City",
+        "date": "2026-03-11",
+        "competition": "Champions League Round of 16",
+        "teams": {
+            "home": "Real Madrid",
+            "away": "Manchester City"
+        },
+        "teams_players": {
+            "home": {
+                "name": "Real Madrid",
+                "trainer": "Carlo Ancelotti",
+                "key_players": [
+                    "Kylian Mbappé",
+                    "Vinícius Jr.",
+                    "Jude Bellingham"
+                ],
+                "all_players": [
+                    "Thibaut Courtois",
+                    "Andriy Lunin",
+                    "Fran González",
+                    "Dani Carvajal",
+                    "Éder Militão",
+                    "Antonio Rüdiger",
+                    "Ferland Mendy",
+                    "David Alaba",
+                    "Nacho Fernández",
+                    "Lucas Vázquez",
+                    "Luka Modrić",
+                    "Toni Kroos",
+                    "Eduardo Camavinga",
+                    "Aurélien Tchouaméni",
+                    "Federico Valverde",
+                    "Dani Ceballos",
+                    "Arda Güler",
+                    "Brahim Díaz",
+                    "Kylian Mbappé",
+                    "Vinícius Jr.",
+                    "Rodrygo",
+                    "Jude Bellingham",
+                    "Joselu",
+                    "Endrick"
+                ]
+            },
+            "away": {
+                "name": "Manchester City",
+                "trainer": "Pep Guardiola",
+                "key_players": [
+                    "Erling Haaland",
+                    "Kevin De Bruyne",
+                    "Phil Foden"
+                ],
+                "all_players": [
+                    "Ederson",
+                    "Stefan Ortega",
+                    "Scott Carson",
+                    "Rúben Dias",
+                    "Manuel Akanji",
+                    "Kyle Walker",
+                    "João Cancelo",
+                    "Nathan Aké",
+                    "John Stones",
+                    "Joško Gvardiol",
+                    "Rodri",
+                    "Kevin De Bruyne",
+                    "Bernardo Silva",
+                    "İlkay Gündoğan",
+                    "Matheus Nunes",
+                    "Phil Foden",
+                    "Jack Grealish",
+                    "Jeremy Doku",
+                    "Savinho",
+                    "Erling Haaland",
+                    "Julián Álvarez",
+                    "James McAtee",
+                    "Oscar Bobb",
+                    "Rico Lewis"
+                ]
+            }
+        },
+        "search_keywords": [
+            "Real Madrid vs Manchester City match report",
+            "Real Madrid Man City Champions League",
+            "Mbappe goal Man City",
+            "Haaland Real Madrid",
+            "Real Madrid 2-1 Manchester City"
+        ],
+        "urls": [
+            "https://www.bbc.com/sport/football/champions-league",
+            "https://www.theguardian.com/football/realmadrid",
+            "https://www.theguardian.com/football/manchestercity",
+            "https://www.realmadrid.com/en",
+            "https://www.mancity.com/news",
+            "https://www.uefa.com/uefachampionsleague/",
+            "https://www.skysports.com/champions-league",
+            "https://www.marca.com/en/football/real-madrid.html"
+        ],
+        "subreddits": [
+            "realmadrid",
+            "MCFC",
+            "soccer",
+            "championsleague"
+        ],
+        "reddit_time_windows": {
+            "match_start_utc": "2026-03-11T21:00:00Z",
+            "periods": [
+                "00:00",
+                "15:00",
+                "30:00",
+                "45:00",
+                "60:00",
+                "75:00",
+                "90:00"
+            ],
+            "before_minutes": 20,
+            "after_minutes": 20,
+            "min_comments_total": 50
+        },
+        "events": [
+            {
+                "minute": 14,
+                "type": "goal",
+                "team": "Real Madrid",
+                "player": "Vinícius Jr.",
+                "desc": "Vinícius Jr. opens the scoring"
+            },
+            {
+                "minute": 38,
+                "type": "goal",
+                "team": "Manchester City",
+                "player": "Erling Haaland",
+                "desc": "Haaland equalises from a De Bruyne assist"
+            },
+            {
+                "minute": 55,
+                "type": "var",
+                "team": "Real Madrid",
+                "player": "Kylian Mbappé",
+                "desc": "Mbappé goal disallowed for offside (VAR)"
+            },
+            {
+                "minute": 72,
+                "type": "red",
+                "team": "Manchester City",
+                "player": "Rodri",
+                "desc": "Rodri red card — second yellow"
+            },
+            {
+                "minute": 89,
+                "type": "goal",
+                "team": "Real Madrid",
+                "player": "Jude Bellingham",
+                "desc": "Bellingham wins it in injury time"
+            }
+        ],
+        "active": true
+    },
+    {
+        "match_id": "arsenal_psg_20260312",
+        "name": "Arsenal vs PSG",
+        "date": "2026-03-12",
+        "competition": "Champions League Round of 16",
+        "teams": {
+            "home": "Arsenal",
+            "away": "PSG"
+        },
+        "teams_players": {
+            "home": {
+                "name": "Arsenal",
+                "trainer": "Mikel Arteta",
+                "key_players": [
+                    "Bukayo Saka",
+                    "Martin Ødegaard",
+                    "Leandro Trossard"
+                ],
+                "all_players": [
+                    "David Raya",
+                    "Karl Hein",
+                    "Matt Turner",
+                    "Ben White",
+                    "William Saliba",
+                    "Gabriel Magalhães",
+                    "Oleksandr Zinchenko",
+                    "Takehiro Tomiyasu",
+                    "Jakub Kiwior",
+                    "Ben White",
+                    "Martin Ødegaard",
+                    "Declan Rice",
+                    "Thomas Partey",
+                    "Jorginho",
+                    "Fabio Vieira",
+                    "Emile Smith Rowe",
+                    "Bukayo Saka",
+                    "Leandro Trossard",
+                    "Gabriel Martinelli",
+                    "Kai Havertz",
+                    "Eddie Nketiah",
+                    "Reiss Nelson",
+                    "Marquinhos",
+                    "Ethan Nwaneri"
+                ]
+            },
+            "away": {
+                "name": "PSG",
+                "trainer": "Luis Enrique",
+                "key_players": [
+                    "Ousmane Dembélé",
+                    "Achraf Hakimi",
+                    "Vitinha"
+                ],
+                "all_players": [
+                    "Gianluigi Donnarumma",
+                    "Matvey Safonov",
+                    "Arnau Tenas",
+                    "Marquinhos",
+                    "Achraf Hakimi",
+                    "Presnel Kimpembe",
+                    "Nuno Mendes",
+                    "Lucas Hernández",
+                    "Milan Škriniar",
+                    "Lucas Beraldo",
+                    "Vitinha",
+                    "Marco Verratti",
+                    "Warren Zaïre-Emery",
+                    "Fabian Ruiz",
+                    "Manuel Ugarte",
+                    "Ousmane Dembélé",
+                    "Kang-in Lee",
+                    "Bradley Barcola",
+                    "Gonçalo Ramos",
+                    "Randal Kolo Muani",
+                    "Désiré Doué",
+                    "Carlos Soler",
+                    "Nordi Mukiele",
+                    "João Neves"
+                ]
+            }
+        },
+        "search_keywords": [
+            "Arsenal vs PSG match report",
+            "Arsenal PSG Champions League",
+            "Saka goal PSG",
+            "Dembele Arsenal",
+            "Arsenal 1-1 PSG"
+        ],
+        "urls": [
+            "https://www.bbc.com/sport/football/champions-league",
+            "https://www.theguardian.com/football/arsenal",
+            "https://www.theguardian.com/football/psg",
+            "https://www.arsenal.com/news",
+            "https://www.psg.fr/en/news",
+            "https://www.uefa.com/uefachampionsleague/",
+            "https://www.skysports.com/champions-league",
+            "https://www.goal.com/en-gb"
+        ],
+        "subreddits": [
+            "Gunners",
+            "psg",
+            "soccer",
+            "championsleague"
+        ],
+        "reddit_time_windows": {
+            "match_start_utc": "2026-03-12T20:00:00Z",
+            "periods": [
+                "00:00",
+                "15:00",
+                "30:00",
+                "45:00",
+                "60:00",
+                "75:00",
+                "90:00"
+            ],
+            "before_minutes": 20,
+            "after_minutes": 20,
+            "min_comments_total": 50
+        },
+        "events": [
+            {
+                "minute": 7,
+                "type": "yellow",
+                "team": "PSG",
+                "player": "Achraf Hakimi",
+                "desc": "Hakimi booked for foul on Saka"
+            },
+            {
+                "minute": 22,
+                "type": "goal",
+                "team": "Arsenal",
+                "player": "Bukayo Saka",
+                "desc": "Saka curls in from the right flank"
+            },
+            {
+                "minute": 44,
+                "type": "goal",
+                "team": "PSG",
+                "player": "Ousmane Dembélé",
+                "desc": "Dembélé equalises before half-time"
+            },
+            {
+                "minute": 63,
+                "type": "penalty",
+                "team": "Arsenal",
+                "player": "Martin Ødegaard",
+                "desc": "Ødegaard penalty awarded after VAR review — saved by Donnarumma"
+            },
+            {
+                "minute": 81,
+                "type": "red",
+                "team": "Arsenal",
+                "player": "Declan Rice",
+                "desc": "Rice second yellow for time-wasting"
+            }
+        ],
+        "active": true
+    },
+    {
+        "match_id": "atletico_madrid_inter_20260305",
+        "name": "Atlético Madrid vs Inter Milan",
+        "date": "2026-03-05",
+        "competition": "Champions League Round of 16",
+        "teams": {
+            "home": "Atlético Madrid",
+            "away": "Inter Milan"
+        },
+        "teams_players": {
+            "home": {
+                "name": "Atlético Madrid",
+                "trainer": "Diego Simeone",
+                "key_players": [
+                    "Antoine Griezmann",
+                    "Álvaro Morata",
+                    "Rodrigo De Paul"
+                ],
+                "all_players": [
+                    "Jan Oblak",
+                    "Antonio Adán",
+                    "Axel Witsel",
+                    "José Giménez",
+                    "Mario Hermoso",
+                    "Nahuel Molina",
+                    "Reinildo",
+                    "Marcos Llorente",
+                    "Stefan Savić",
+                    "Samuel Lino",
+                    "Rodrigo De Paul",
+                    "Koke",
+                    "Pablo Barrios",
+                    "Saúl Ñíguez",
+                    "Ángel Correa",
+                    "Thomas Lemar",
+                    "Antoine Griezmann",
+                    "Álvaro Morata",
+                    "Memphis Depay",
+                    "Julián Álvarez",
+                    "Alexander Sørloth",
+                    "Javi Galán",
+                    "Arthur Vermeeren",
+                    "Giuliano Simeone"
+                ]
+            },
+            "away": {
+                "name": "Inter Milan",
+                "trainer": "Simone Inzaghi",
+                "key_players": [
+                    "Lautaro Martínez",
+                    "Marcus Thuram",
+                    "Nicolò Barella"
+                ],
+                "all_players": [
+                    "Yann Sommer",
+                    "Emil Audero",
+                    "Josep Martínez",
+                    "Francesco Acerbi",
+                    "Alessandro Bastoni",
+                    "Benjamin Pavard",
+                    "Matteo Darmian",
+                    "Denzel Dumfries",
+                    "Federico Dimarco",
+                    "Carlos Augusto",
+                    "Nicolò Barella",
+                    "Hakan Çalhanoğlu",
+                    "Henrikh Mkhitaryan",
+                    "Kristjan Asllani",
+                    "Davide Frattesi",
+                    "Piotr Zieliński",
+                    "Lautaro Martínez",
+                    "Marcus Thuram",
+                    "Marko Arnautović",
+                    "Mehdi Taremi",
+                    "Juan Cuadrado",
+                    "Valentin Carboni",
+                    "Tajon Buchanan",
+                    "Yann Bisseck"
+                ]
+            }
+        },
+        "search_keywords": [
+            "Atletico Madrid vs Inter Milan match report",
+            "Atletico Inter Champions League",
+            "Griezmann goal Inter",
+            "Lautaro Madrid",
+            "Atletico 2-1 Inter"
+        ],
+        "urls": [
+            "https://www.bbc.com/sport/football/champions-league",
+            "https://www.theguardian.com/football/atleticomadrid",
+            "https://www.theguardian.com/football/inter-milan",
+            "https://www.atleticodemadrid.com/en",
+            "https://www.inter.it/en",
+            "https://www.uefa.com/uefachampionsleague/",
+            "https://www.skysports.com/champions-league",
+            "https://www.gazzetta.it"
+        ],
+        "subreddits": [
+            "atleticomadrid",
+            "FCInterMilan",
+            "soccer",
+            "championsleague"
+        ],
+        "reddit_time_windows": {
+            "match_start_utc": "2026-03-05T21:00:00Z",
+            "periods": [
+                "00:00",
+                "15:00",
+                "30:00",
+                "45:00",
+                "60:00",
+                "75:00",
+                "90:00"
+            ],
+            "before_minutes": 20,
+            "after_minutes": 20,
+            "min_comments_total": 50
+        },
+        "events": [
+            {
+                "minute": 18,
+                "type": "goal",
+                "team": "Inter Milan",
+                "player": "Marcus Thuram",
+                "desc": "Thuram heads Inter ahead from a corner"
+            },
+            {
+                "minute": 34,
+                "type": "yellow",
+                "team": "Atlético Madrid",
+                "player": "Rodrigo De Paul",
+                "desc": "De Paul booked for late challenge on Barella"
+            },
+            {
+                "minute": 51,
+                "type": "goal",
+                "team": "Atlético Madrid",
+                "player": "Antoine Griezmann",
+                "desc": "Griezmann equalises with a low finish"
+            },
+            {
+                "minute": 67,
+                "type": "var",
+                "team": "Inter Milan",
+                "player": "Lautaro Martínez",
+                "desc": "Lautaro goal ruled out — handball in build-up"
+            },
+            {
+                "minute": 85,
+                "type": "goal",
+                "team": "Atlético Madrid",
+                "player": "Julián Álvarez",
+                "desc": "Álvarez wins it with a header at the back post"
+            }
+        ],
+        "active": true
+    },
+    {
+        "match_id": "barcelona_bayer_leverkusen_20260317",
+        "name": "Barcelona vs Bayer Leverkusen",
+        "date": "2026-03-17",
+        "competition": "Champions League Round of 16",
+        "teams": {
+            "home": "Barcelona",
+            "away": "Bayer Leverkusen"
+        },
+        "teams_players": {
+            "home": {
+                "name": "Barcelona",
+                "trainer": "Hansi Flick",
+                "key_players": [
+                    "Lamine Yamal",
+                    "Pedri",
+                    "Robert Lewandowski"
+                ],
+                "all_players": [
+                    "Marc-André ter Stegen",
+                    "Iñaki Peña",
+                    "Arnau Tenas",
+                    "Ronald Araújo",
+                    "Jules Koundé",
+                    "Andreas Christensen",
+                    "Alejandro Balde",
+                    "Sergi Roberto",
+                    "Íñigo Martínez",
+                    "Héctor Fort",
+                    "Pedri",
+                    "Frenkie de Jong",
+                    "Gavi",
+                    "Fermín López",
+                    "Marc Casadó",
+                    "Dani Olmo",
+                    "Pau Cubarsí",
+                    "Lamine Yamal",
+                    "Raphinha",
+                    "Ferran Torres",
+                    "Robert Lewandowski",
+                    "Ansu Fati",
+                    "Vitor Roque",
+                    "Marc Guiu"
+                ]
+            },
+            "away": {
+                "name": "Bayer Leverkusen",
+                "trainer": "Xabi Alonso",
+                "key_players": [
+                    "Florian Wirtz",
+                    "Granit Xhaka",
+                    "Victor Boniface"
+                ],
+                "all_players": [
+                    "Lukáš Hrádecký",
+                    "Matej Kovář",
+                    "Niklas Lomb",
+                    "Jonathan Tah",
+                    "Odilon Kossounou",
+                    "Piero Hincapié",
+                    "Jeremie Frimpong",
+                    "Alejandro Grimaldo",
+                    "Edmond Tapsoba",
+                    "Noah Mbamba",
+                    "Granit Xhaka",
+                    "Exequiel Palacios",
+                    "Robert Andrich",
+                    "Florian Wirtz",
+                    "Jonas Hofmann",
+                    "Amine Adli",
+                    "Adam Hložek",
+                    "Victor Boniface",
+                    "Patrik Schick",
+                    "Álex Grimaldo",
+                    "Josip Stanisić",
+                    "Arthur",
+                    "Tim Frauberger",
+                    "Granit Xhaka"
+                ]
+            }
+        },
+        "search_keywords": [
+            "Barcelona vs Bayer Leverkusen match report",
+            "Barcelona Leverkusen Champions League",
+            "Yamal goal Leverkusen",
+            "Wirtz Barcelona",
+            "Barcelona 3-2 Bayer Leverkusen"
+        ],
+        "urls": [
+            "https://www.bbc.com/sport/football/champions-league",
+            "https://www.theguardian.com/football/barcelona",
+            "https://www.theguardian.com/football/bayerleverkusen",
+            "https://www.fcbarcelona.com/en/news",
+            "https://www.bayer04.de/en",
+            "https://www.uefa.com/uefachampionsleague/",
+            "https://www.skysports.com/champions-league",
+            "https://www.marca.com/en/football/fc-barcelona.html"
+        ],
+        "subreddits": [
+            "Barca",
+            "BayerLeverkusen",
+            "soccer",
+            "championsleague"
+        ],
+        "reddit_time_windows": {
+            "match_start_utc": "2026-03-17T21:00:00Z",
+            "periods": [
+                "00:00",
+                "15:00",
+                "30:00",
+                "45:00",
+                "60:00",
+                "75:00",
+                "90:00"
+            ],
+            "before_minutes": 20,
+            "after_minutes": 20,
+            "min_comments_total": 50
+        },
+        "events": [
+            {
+                "minute": 9,
+                "type": "goal",
+                "team": "Barcelona",
+                "player": "Lamine Yamal",
+                "desc": "Yamal cuts inside and bends in the opener"
+            },
+            {
+                "minute": 27,
+                "type": "goal",
+                "team": "Bayer Leverkusen",
+                "player": "Florian Wirtz",
+                "desc": "Wirtz equalises with a stunning half-volley"
+            },
+            {
+                "minute": 41,
+                "type": "yellow",
+                "team": "Bayer Leverkusen",
+                "player": "Granit Xhaka",
+                "desc": "Xhaka booked for foul on Pedri"
+            },
+            {
+                "minute": 58,
+                "type": "goal",
+                "team": "Barcelona",
+                "player": "Robert Lewandowski",
+                "desc": "Lewandowski heads Barcelona back in front"
+            },
+            {
+                "minute": 69,
+                "type": "goal",
+                "team": "Bayer Leverkusen",
+                "player": "Victor Boniface",
+                "desc": "Boniface levels again — end-to-end thriller"
+            },
+            {
+                "minute": 90,
+                "type": "goal",
+                "team": "Barcelona",
+                "player": "Pedri",
+                "desc": "Pedri drives home the winner deep in stoppage time"
+            }
+        ],
+        "active": true
+    },
+    {
+        "match_id": "liverpool_galatasaray_20260318",
+        "name": "Liverpool vs Galatasaray",
+        "date": "2026-03-18",
+        "competition": "Champions League Round of 16 — 2nd Leg",
+        "teams": {
+            "home": "Liverpool",
+            "away": "Galatasaray"
+        },
+        "teams_players": {
+            "home": {
+                "name": "Liverpool",
+                "trainer": "Arne Slot",
+                "key_players": [
+                    "Mohamed Salah",
+                    "Virgil van Dijk",
+                    "Florian Wirtz"
+                ],
+                "all_players": [
+                    "Alisson Becker",
+                    "Caoimhín Kelleher",
+                    "Vitezslav Jaros",
+                    "Virgil van Dijk",
+                    "Trent Alexander-Arnold",
+                    "Andrew Robertson",
+                    "Ibrahima Konaté",
+                    "Joe Gomez",
+                    "Konstantinos Tsimikas",
+                    "Jarell Quansah",
+                    "Conor Bradley",
+                    "Alexis Mac Allister",
+                    "Dominik Szoboszlai",
+                    "Ryan Gravenberch",
+                    "Curtis Jones",
+                    "Harvey Elliott",
+                    "Wataru Endo",
+                    "Stefan Bajcetic",
+                    "Mohamed Salah",
+                    "Florian Wirtz",
+                    "Darwin Núñez",
+                    "Cody Gakpo",
+                    "Diogo Jota",
+                    "Federico Chiesa",
+                    "Ben Doak"
+                ]
+            },
+            "away": {
+                "name": "Galatasaray",
+                "trainer": "Okan Buruk",
+                "key_players": [
+                    "Victor Osimhen",
+                    "Gabriel Sara",
+                    "Barış Alper Yılmaz"
+                ],
+                "all_players": [
+                    "Uğurcan Çakır",
+                    "Fernando Muslera",
+                    "Günay Güvenç",
+                    "Kaan Ayhan",
+                    "Abdülkerim Bardakcı",
+                    "Victor Nelsson",
+                    "Elias Jelert",
+                    "Derrick Köhn",
+                    "Singo",
+                    "Roland Sallai",
+                    "Lucas Torreira",
+                    "Berkan Kutlu",
+                    "Gabriel Sara",
+                    "Kerem Demirbay",
+                    "Sérgio Oliveira",
+                    "Efe Akman",
+                    "Victor Osimhen",
+                    "Barış Alper Yılmaz",
+                    "Nao Lang",
+                    "Michy Batshuayi",
+                    "Yunus Akgün",
+                    "Halil Dervişoğlu",
+                    "Mauro Icardi",
+                    "Ali Turap Bülbül"
+                ]
+            }
+        },
+        "search_keywords": [
+            "Liverpool vs Galatasaray match report",
+            "Liverpool Galatasaray Champions League second leg",
+            "Salah goal Galatasaray Anfield",
+            "Osimhen Liverpool second leg",
+            "Liverpool 4-0 Galatasaray"
+        ],
+        "urls": [
+            "https://www.bbc.com/sport/football/champions-league",
+            "https://www.theguardian.com/football/liverpool",
+            "https://www.theguardian.com/football/galatasaray",
+            "https://www.liverpoolfc.com/news",
+            "https://www.galatasaray.org/en",
+            "https://www.uefa.com/uefachampionsleague/",
+            "https://www.skysports.com/champions-league",
+            "https://www.goal.com/en-gb"
+        ],
+        "subreddits": [
+            "LiverpoolFC",
+            "galatasaray",
+            "soccer",
+            "championsleague"
+        ],
+        "reddit_time_windows": {
+            "match_start_utc": "2026-03-18T20:00:00Z",
+            "periods": [
+                "00:00",
+                "15:00",
+                "30:00",
+                "45:00",
+                "60:00",
+                "75:00",
+                "90:00"
+            ],
+            "before_minutes": 20,
+            "after_minutes": 20,
+            "min_comments_total": 50
+        },
+        "events": [
+            {
+                "minute": 11,
+                "type": "goal",
+                "team": "Liverpool",
+                "player": "Mohamed Salah",
+                "desc": "Salah opens the scoring at Anfield — aggregate level"
+            },
+            {
+                "minute": 29,
+                "type": "goal",
+                "team": "Liverpool",
+                "player": "Florian Wirtz",
+                "desc": "Wirtz doubles the lead with a precise finish"
+            },
+            {
+                "minute": 45,
+                "type": "yellow",
+                "team": "Galatasaray",
+                "player": "Kaan Ayhan",
+                "desc": "Ayhan booked for persistent fouling"
+            },
+            {
+                "minute": 62,
+                "type": "goal",
+                "team": "Liverpool",
+                "player": "Darwin Núñez",
+                "desc": "Núñez makes it 3-0 — Liverpool lead 3-1 on aggregate"
+            },
+            {
+                "minute": 78,
+                "type": "goal",
+                "team": "Liverpool",
+                "player": "Cody Gakpo",
+                "desc": "Gakpo rounds off the rout — Liverpool through 4-1 on aggregate"
+            }
+        ],
+        "active": true
+    }
+]
