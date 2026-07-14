@@ -18,6 +18,10 @@ Ce projet étudie dans quelle mesure les réactions publiées en ligne permetten
 2. **Traitement Automatique du Langage naturel (TAL)** — nettoyage des textes, détection d'événements sportifs par règles puis par classification supervisée (TF-IDF + régression logistique), extraction de scores, construction d'une timeline sociale.
 3. **Analyse de sentiment** — évolution émotionnelle des commentaires autour des événements clés du match, modélisation par régression logistique, forêt aléatoire et gradient boosting, comparaison des timelines sociale / médiatique / officielle.
 
+<img width="448" height="230" alt="Captura de pantalla 2026-07-14 a las 11 27 47" src="https://github.com/user-attachments/assets/f323b3ff-dedc-42fa-87f7-2e7d1e9f22e9" />
+<img width="450" height="150" alt="Captura de pantalla 2026-07-14 a las 11 27 42" src="https://github.com/user-attachments/assets/86fda914-ecea-404c-ad75-ddf42eca21ad" />
+
+
 ## Structure du dépôt
 
 ```
